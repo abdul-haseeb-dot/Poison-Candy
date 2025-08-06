@@ -1,0 +1,14 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries (just in case)
+*.exe
+*.o
